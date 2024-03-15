@@ -1,0 +1,10 @@
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\bin\Debug\netstandard2.1\BaseDeDatos.deps.json
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\bin\Debug\netstandard2.1\BaseDeDatos.dll
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\bin\Debug\netstandard2.1\BaseDeDatos.pdb
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\obj\Debug\netstandard2.1\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\obj\Debug\netstandard2.1\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\obj\Debug\netstandard2.1\BaseDeDatos.AssemblyInfoInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\obj\Debug\netstandard2.1\BaseDeDatos.AssemblyInfo.cs
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\obj\Debug\netstandard2.1\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\obj\Debug\netstandard2.1\BaseDeDatos.dll
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BaseDeDatos\obj\Debug\netstandard2.1\BaseDeDatos.pdb

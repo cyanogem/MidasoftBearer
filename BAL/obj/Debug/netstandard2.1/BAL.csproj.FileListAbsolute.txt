@@ -1,0 +1,13 @@
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\bin\Debug\netstandard2.1\BAL.deps.json
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\bin\Debug\netstandard2.1\BAL.dll
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\bin\Debug\netstandard2.1\BAL.pdb
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.AssemblyInfoInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.AssemblyInfo.cs
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.dll
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.pdb
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.csproj.AssemblyReference.cache
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\bin\Debug\netstandard2.1\BaseDeDatos.dll
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\bin\Debug\netstandard2.1\BaseDeDatos.pdb
+C:\Users\Jairo Sanabria\source\repos\Midasoft\BAL\obj\Debug\netstandard2.1\BAL.csproj.CopyComplete
